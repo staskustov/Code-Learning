@@ -1,0 +1,15 @@
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/bin/Debug/net7.0/task2
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/bin/Debug/net7.0/task2.deps.json
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/bin/Debug/net7.0/task2.dll
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/bin/Debug/net7.0/task2.pdb
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.dll
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.pdb
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/staskustov/Desktop/Main Directory/gb/C#/homework/lesson1/task2/obj/Debug/net7.0/ref/task2.dll
